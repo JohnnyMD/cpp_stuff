@@ -1,5 +1,4 @@
 #include <iostream>
-// #include <process.h>
 
 using namespace std;
 
@@ -122,7 +121,7 @@ Node *cerca_prima_occorenza(int val)
 
 int main()
 {
-    int opzione, x;
+    int   opzione,  x;
     Node *n;
 
     while (1)
