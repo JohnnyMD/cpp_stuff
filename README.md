@@ -1,4 +1,4 @@
-## cpp_stuff
+## C++ Stuff
 > C++ code for general purpose use
 
 
